@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.e6e9203d.chunk.css",
-    "main.js": "/my-app/static/js/main.aebec170.chunk.js",
-    "main.js.map": "/my-app/static/js/main.aebec170.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.f5212b54.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.f5212b54.js.map",
-    "static/js/2.a489c2db.chunk.js": "/my-app/static/js/2.a489c2db.chunk.js",
-    "static/js/2.a489c2db.chunk.js.map": "/my-app/static/js/2.a489c2db.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.83b6200ec93467ac121b3edaba8a9d39.js": "/my-app/precache-manifest.83b6200ec93467ac121b3edaba8a9d39.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.e6e9203d.chunk.css.map": "/my-app/static/css/main.e6e9203d.chunk.css.map",
-    "static/js/2.a489c2db.chunk.js.LICENSE.txt": "/my-app/static/js/2.a489c2db.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/git%20branch%20--all/static/css/main.e6e9203d.chunk.css",
+    "main.js": "/git%20branch%20--all/static/js/main.a52f1180.chunk.js",
+    "main.js.map": "/git%20branch%20--all/static/js/main.a52f1180.chunk.js.map",
+    "runtime-main.js": "/git%20branch%20--all/static/js/runtime-main.fdca0f44.js",
+    "runtime-main.js.map": "/git%20branch%20--all/static/js/runtime-main.fdca0f44.js.map",
+    "static/js/2.a489c2db.chunk.js": "/git%20branch%20--all/static/js/2.a489c2db.chunk.js",
+    "static/js/2.a489c2db.chunk.js.map": "/git%20branch%20--all/static/js/2.a489c2db.chunk.js.map",
+    "index.html": "/git%20branch%20--all/index.html",
+    "precache-manifest.2ebc5e42b82e868705600090452356f0.js": "/git%20branch%20--all/precache-manifest.2ebc5e42b82e868705600090452356f0.js",
+    "service-worker.js": "/git%20branch%20--all/service-worker.js",
+    "static/css/main.e6e9203d.chunk.css.map": "/git%20branch%20--all/static/css/main.e6e9203d.chunk.css.map",
+    "static/js/2.a489c2db.chunk.js.LICENSE.txt": "/git%20branch%20--all/static/js/2.a489c2db.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/git%20branch%20--all/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5212b54.js",
+    "static/js/runtime-main.fdca0f44.js",
     "static/js/2.a489c2db.chunk.js",
     "static/css/main.e6e9203d.chunk.css",
-    "static/js/main.aebec170.chunk.js"
+    "static/js/main.a52f1180.chunk.js"
   ]
 }
