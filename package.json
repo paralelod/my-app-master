@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://paralelod.github.io/my-app-master/",
+  "homepage": "git branch --all",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
